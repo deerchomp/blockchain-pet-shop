@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Akira",
+    "picture": "images/Akira.jpeg",
+    "age": 3,
+    "breed": "Pug",
+    "location": "Santa Ana, CA"
+  },
+  {
+    "id": 1,
+    "name": "Alvin",
+    "picture": "images/Alvin.jpeg",
+    "age": 3,
+    "breed": "Beagle",
+    "location": "Orange, CA"
+  },
+  {
+    "id": 2,
+    "name": "Beefie",
+    "picture": "images/Beefie.jpeg",
+    "age": 2,
+    "breed": "French Bulldog",
+    "location": "Westminster, CA"
+  },
+  {
+    "id": 3,
+    "name": "Cledus",
+    "picture": "images/Cledus.jpeg",
+    "age": 2,
+    "breed": "Boxer",
+    "location": "Los Angeles, CA"
+  },
+  {
+    "id": 4,
+    "name": "Coco",
+    "picture": "images/Coco.jpeg",
+    "age": 2,
+    "breed": "Pomeranian",
+    "location": "Irvine, CA"
+  },
+  {
+    "id": 5,
+    "name": "Hailey",
+    "picture": "images/Hailey.jpeg",
+    "age": 3,
+    "breed": "Pug",
+    "location": "Mission Viejo, CA"
+  },
+  {
+    "id": 6,
+    "name": "Iris",
+    "picture": "images/Iris.jpeg",
+    "age": 3,
+    "breed": "Pomeranian",
+    "location": "Corona, CA"
+  },
+  {
+    "id": 7,
+    "name": "Jazzy",
+    "picture": "images/Lucy.jpeg",
+    "age": 8,
+    "breed": "Daschund / Chihuahua",
+    "location": "Santa Ana, CA"
+  },
+  {
+    "id": 8,
+    "name": "Maya",
+    "picture": "images/Maya.jpeg",
+    "age": 2,
+    "breed": "Mixed",
+    "location": "San Diego, CA"
+  },
+  {
+    "id": 9,
+    "name": "Paul",
+    "picture": "images/Paul.jpeg",
+    "age": 3,
+    "breed": "Chihuahua",
+    "location": "Riverside, CA"
+  },
+  {
+    "id": 10,
+    "name": "Turbo",
+    "picture": "images/Turbo.jpeg",
+    "age": 2,
+    "breed": "American Bulldog",
+    "location": "Westminster, CA"
+  },
+  {
+    "id": 11,
+    "name": "Zeus",
+    "picture": "images/Zeus.jpeg",
+    "age": 3,
+    "breed": "Beagle",
+    "location": "Irvine, CA"
+  },
+  {
+    "id": 12,
+    "name": "Kiki",
+    "picture": "images/Kiki.jpeg",
+    "age": 3,
+    "breed": "French Bulldog",
+    "location": "Tustin, CA"
+  },
+  {
+    "id": 13,
+    "name": "Leroy",
+    "picture": "images/Leroy.jpeg",
+    "age": 4,
+    "breed": "Bulldog",
+    "location": "Santa Ana, CA"
+  },
+  {
+    "id": 14,
+    "name": "Lucy",
+    "picture": "images/Lucy.jpeg",
+    "age": 2,
+    "breed": "Daschund / Chihuahua",
+    "location": "Irvine, CA"
+  },
+  {
+    "id": 15,
+    "name": "Kiwi",
+    "picture": "images/Kiwi.jpeg",
+    "age": 2,
+    "breed": "Boxer",
+    "location": "Fullerton, CA"
+  }
+]
